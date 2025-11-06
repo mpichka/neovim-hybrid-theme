@@ -38,8 +38,8 @@ M.base_30 = {
 
   statusline_bg = "#1d2428",
   lightbg = "#232a2e",
-  pmenu_bg = "#81a2be",
-  folder_bg = "#81a2be",
+  pmenu_bg = "#6c7a80",
+  folder_bg = "#6c7a80",
 }
 
 -- check https://github.com/chriskempson/base16/blob/master/styling.md for more info
@@ -65,8 +65,8 @@ M.base_16 = {
 M.polish_hl = {
   defaults = {
     Comment = { italic = true },
-    CursorLine = { bg = "#99dbff" },
-    Visual = { bg = "#99dbff" },
+    CursorLine = { bg = "#6c7a80" },
+    Visual = { bg = "#2e2f31" },
     StatusLine = { bg = "#1d2428" },
   },
 
